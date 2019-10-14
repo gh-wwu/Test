@@ -1,2 +1,4 @@
 # Test
-Just another testing repository
+Just another repository.
+
+This is a testing file. 
